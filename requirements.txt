@@ -1,0 +1,6 @@
+kaggle-environments==1.7.3
+numpy==1.19.3
+trueskill
+pytest
+tqdm
+torch
